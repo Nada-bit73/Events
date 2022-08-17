@@ -1,0 +1,22 @@
+hr.style-one {
+border: 0;
+height: 1px;
+margin-top:40px;
+background: #333;
+background-image: -webkit-linear-gradient(left, #ccc, #333, #ccc);
+background-image: -moz-linear-gradient(left, #ccc, #333, #ccc);
+background-image: -ms-linear-gradient(left, #ccc, #333, #ccc);
+background-image: -o-linear-gradient(left, #ccc, #333, #ccc);
+}
+
+div.scroll {
+width: 550px;
+height: 230px;
+overflow: scroll;
+text-align: justify;
+padding: 15px;
+}
+
+label.head{
+	margin-top: 20%;
+}
